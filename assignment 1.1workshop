@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Metadata and page title go inside the head section -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Structure & Comments Assignment</title>
+</head>
+
+<body>
+    <!-- 
+      Multi-line Comment:
+      Author: Student Name
+      Assignment: Basic HTML Page Structure & Comments
+    -->
+
+    <!-- Main Heading -->
+    <h1>Welcome to My Web Page</h1>
+
+    <!-- Introduction Paragraph -->
+    <p>Hello! This webpage demonstrates the standard HTML5 document structure and how comments work in source code.</p>
+
+    <!-- Subheading and Unordered List -->
+    <h2>Topics Covered</h2>
+    <ul>
+        <li>DOCTYPE Declaration</li>
+        <li>Head and Body Elements</li>
+        <li>Single-line and Multi-line Comments</li>
+    </ul>
+
+    <!-- Temporarily hidden element using a comment:
+    <p>This paragraph will not appear in the web browser.</p>
+    -->
+
+</body>
+</html>

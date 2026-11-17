@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8"
+        <meta name="viewport" content="width=device-width,intial-scale=1.0">
+<title>HTML Structure & comments assignment</title>
+    </head>
+    <body>
+        <h1>
+            welcome to my development assignment<
+        </h1>
+        <p>
+           Hello! This webpage demonstrates the standard HTML5 document structure and how comments work in source code .
+        </p>
+<h2>Topics covered </h2>
+<ul>
+    <li>DOCTYPE declaration </li>
+    <li>Head and Body elements</li>
+    <li>Single-line and multi-line comments</li>
+
+    
+</ul>
+</body>
+</html>
